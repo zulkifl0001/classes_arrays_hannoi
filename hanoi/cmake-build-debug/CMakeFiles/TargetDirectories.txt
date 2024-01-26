@@ -1,0 +1,3 @@
+C:/Users/zulkifl/Desktop/homeworks/ee441/Q2/cmake-build-debug/CMakeFiles/Q2.dir
+C:/Users/zulkifl/Desktop/homeworks/ee441/Q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zulkifl/Desktop/homeworks/ee441/Q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
